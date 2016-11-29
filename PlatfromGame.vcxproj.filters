@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Headers">
+      <UniqueIdentifier>{1cffc8b1-c42e-4be8-ba80-2365bcc78ddd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sources">
+      <UniqueIdentifier>{2e84b2d6-20ba-48ad-ae73-c54981950d4a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Authors.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ChooseLevel.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="FontManager.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GamePause.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelEditor.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelManger.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelManager.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="MyContactListener.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="MyWorld.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Pickable.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayingState.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureObject.cpp">
+      <Filter>Source Files\Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Authors.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ChooseLevel.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="FontManager.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GamePause.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelEditor.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelManager.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelManager.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MyContactListener.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MyWorld.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Pickable.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayingState.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureObject.h">
+      <Filter>Source Files\Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+</Project>
